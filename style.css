@@ -1,0 +1,25 @@
+body {
+    text-align: center;
+    background-image: url(backgroundstuffs.jpg)
+}
+
+.cutstuff {
+    border: 4px solid black;
+    border-radius: 75px;
+    width: 300;
+    height: auto;
+}
+
+h3 {
+    font-family: 'Sansita Swashed', cursive;
+
+}
+
+.Gingerbread{
+    border-color: green;
+    border-width: 5px;
+    margin: 50px;
+    border-radius: 10px;
+    width: 400px;
+    height: auto;
+}
